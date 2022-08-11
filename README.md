@@ -44,9 +44,5 @@ Refer to code in main program for more information.
  
 *Modifying binary files is slightly different than text files so handle them carefully.*
 
-## Contributors
 
-* <a href="https://github.com/hiteshgarg123/">Hitesh Garg</a> 
-* <a href="https://github.com/vaibhav2vicky/">Vaibhav Yadav</a>
-* <a href="https://github.com/hrithik73/">Hrithik Singh</a>
 
